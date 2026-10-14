@@ -4,19 +4,19 @@ A Next.js showcase of five navigation menus. Each style uses the same destinatio
 
 ## Live Demo
 
-**[Open the live demo](https://temporary-spry-opal-6nz1b9t.vercel.app)**
+**[Open the live demo](https://menus-with-glowing-effects.vercel.app/)**
 
 ## Menus
 
 Use the numbered switcher at the top of the page:
 
-| # | Style | What it does |
-| --- | --- | --- |
-| 01 | **Rings** | A glowing disc slides across the icon row |
-| 02 | **Signal** | A fill bar grows toward the selected icon |
-| 03 | **Dock** | A morphing bar with a lifted bead on the active tab |
-| 04 | **Index** | Labeled tabs with a sliding highlight |
-| 05 | **Swell** | Icons sit on a curve; the bead travels the path |
+| #   | Style      | What it does                                        |
+| --- | ---------- | --------------------------------------------------- |
+| 01  | **Rings**  | A glowing disc slides across the icon row           |
+| 02  | **Signal** | A fill bar grows toward the selected icon           |
+| 03  | **Dock**   | A morphing bar with a lifted bead on the active tab |
+| 04  | **Index**  | Labeled tabs with a sliding highlight               |
+| 05  | **Swell**  | Icons sit on a curve; the bead travels the path     |
 
 ## Features
 
